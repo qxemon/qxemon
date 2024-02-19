@@ -17,5 +17,5 @@
 
 
 # etc
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" href="https://qxemon.tistory.com/"/>
+<a href="https://qxemon.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 
