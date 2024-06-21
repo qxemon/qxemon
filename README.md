@@ -1,6 +1,7 @@
 # Hi I'm Yewon Park! (now) 👋
 
-
+## Portfolio
+<a href="https://hamster-is-perfect.notion.site/3fbb8c5b67804f4bbf68280cc699feaf"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
 ## Education
 - KOREATECH Computer Engineering `19' ~ 23'`
@@ -18,4 +19,6 @@
 
 ## etc
 <a href="https://qxemon.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
+
+
 
